@@ -1,0 +1,8 @@
+---
+  path-pdf: "path of pdf that you want to modify"
+  old-text:
+    - "TEXT 1 OLD"
+    - "TEXT 2 OLD"
+  new-text:
+    - "text 1 new"
+    - "text 2 new"
